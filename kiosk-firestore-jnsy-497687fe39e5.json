@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kiosk-firestore-jnsy",
+  "private_key_id": "497687fe39e5f1c9b019a1d42348287b69e2cead",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCQ6ewZr4/BQ0aS\nCwHwGt1pFZShP8+GLPAeaLSEE3SH9Cs50VwqUL4wAIw+vaeqe+dwsQ18mi6nZlff\nF3jyxinmKijgrjMGas9cueanHOqMWoOxsyO2dCdUxrxLcGOvWv8tywp4dAGFcXQC\ngRtkIsluflsICkvJVDQOdfPKvyEnVOEMaf0PU4UKM3/1xBwubUjqioA0DTI/z+JH\ney1o85TvNLKcvxDQMGo8LOO9wRi0juAfFt7Y8V6lLXCJV2/4RMzZLLVbv/ysMsE4\ncfTjVQcvqP8Air8JfL09xdiFbclayALkCVPHNW7bK9OsoDN2j86k/6+vf7ZjRlPj\n4hHOHbVHAgMBAAECggEABbS4P7Cqe+Uev7xgOKiOJEedwRWmobVeRQxBY1vywDGs\njAvC0cW5H2G+I/BKzEsxqz3Fdq0Jfjzo49dkQ0brOm1Zi7NAPhXxkUienODmGV2t\nBs+zbck4DT4ABwZnXm26U37FrEWBE9SKSVj1D6XRAaFHC1OAdW5z2EfrsAWDlC1T\nvOLazgOx+nt9io0c3LeS+6X6HdexZFuagN5G5grzbfuYHMDwKUlqZqcX72rkryVt\nkDUlx3svX49BIXUlSPSDfAlTtXKcoRBUhRMAyrJJ8CVRj3LwCLkK7uGTtQyHjEd/\nZNMjyWA2xcQcLnMh3kZnqc18fTLFNsvN9UHjLw+QoQKBgQDFnuOC324W09/YuxDE\nsWE85B1saBfyQxLrxpKXhqhT3VTx0IFISWNd0vHWfORctTrfjdecIXR/84wdLaov\n9kEIOnzQk1i7rFh+SKAyT9T0PBZkG9f8AZkQiZUKr9GBDlG5HCJcbfH1WI406jv8\nSim0U0zjlF60yiqoeMKqdvzgJwKBgQC7uQ+o4FVVyj7RVoMvn+yUNliqD7v8LNpw\n06rzzMgCCAAvFHU/ZvLHD0BzIutOt/BHonzrDkvTwcm7ptjgXRr89rN9iDww6SN3\nhnX1ZjR3TexqTkDTbvTSXCUKFt1AoRR0Tt45ndCHv4ohp7lAtNQ6JL5TZ3EfmeZe\n+XLKsyqV4QKBgQCXnhy9ZwCGoQ2nsXXfApww5G8yofZlV1Kn9BS6DoUMus4WLLtT\no4KKFHKY9f8apazCoYefcQd5t3hzVnqxC4S/dGgYekPk0Qif8sZ9c0RWEde3/KjL\n3sn5pyTjKxtYoYzPsacnNO8jJksMi/1zxc6TXCmsnUO//y+VS/lGYb4HlwKBgQCJ\nwm8pgSdeg8LBoPk4k+Xrhk5ezpknoErVjZ/gtiD4zKJF6n94fbYgOqMTW0bPR9C+\n4RFG9gDTb1z5pqF1VR4fEXP65WU2h4CNkFE0O0K5YqfiA3czMjPbw98ynkDT0uHN\n0KroIVYMqJVXyVv7jjhISvqY/kpX5HrYq7p/4ieYQQKBgQCAwlPsWkRh8fMjGhCn\nob+K+woFlH2/nPB+oRJn85iHRYZugGrXDjo4pk7K5RQlPe58UjrXtRssgsFuim7a\nHbd6vTeT0os0w+Y0PGNKfEUPXHoYUoP/LHVLZV7wzSwGqSG0t5U4o9gciNnuT8hc\n+sieJxftDc/cIK0sSUi/E5q0Aw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kiosk-jnsy@kiosk-firestore-jnsy.iam.gserviceaccount.com",
+  "client_id": "114633213020142020002",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kiosk-jnsy%40kiosk-firestore-jnsy.iam.gserviceaccount.com"
+}
